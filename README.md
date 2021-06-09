@@ -1,2 +1,3 @@
 # react_study
-学习王红元老师的react历程
+
+react 学习之旅
