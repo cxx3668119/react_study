@@ -1,10 +1,6 @@
 import React, { Component } from 'react'
 
 class ChildCpn extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     let { name, age, height } = this.props
     return (
