@@ -4,7 +4,6 @@ import TabControl from './TabControl'
 export default class App extends Component {
   constructor(props) {
     super(props)
-
     this.state = {
       currentTitle: '流行',
       titles: ['流行', '新款', '精选']
